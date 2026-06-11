@@ -1,4 +1,4 @@
-﻿# Vehicle Object Tracking with YOLO
+# Vehicle Object Tracking with YOLO
 
 ## Description
 
